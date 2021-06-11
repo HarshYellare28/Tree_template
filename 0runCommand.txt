@@ -1,0 +1,4 @@
+First go in the directory where the tree programs are located:- 
+
+First Command : g++ filename.cpp Tree.h Tree.cpp -o sample
+Second Command: ./sample

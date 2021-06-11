@@ -1,0 +1,11 @@
+#include<bits/stdc++.h>
+using namespace std;
+#include "Tree.h"
+
+int main()
+{
+    TreeNode* root = NULL;
+    InsertInTree(&root);
+    
+	return 0;	 
+}
